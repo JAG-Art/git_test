@@ -1,3 +1,2 @@
 # git_test
-"Hello Odin!"
-Private email
+"Hello Odin! check"
